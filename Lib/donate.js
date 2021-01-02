@@ -25,7 +25,7 @@ exports.donate = (id, A187, tampilTanggal, whatsapp, youtube, tampilWaktu, insta
 ║│➸ *YouTube mimin*
 ║│ _${https://www.youtube.com/channel/UCBmioqeCZWCs21jVO8slBlw}_
 ║│➸ *Instagram <Follow>*
-║│ _${Instagram" https://www.instagram.com}_
+║│ _${https://www.instagram.com}_
 ║│➸ *Creator ${RIZKIBOT}*
 ║│ _${081315995628}_
 ║╰───────────
