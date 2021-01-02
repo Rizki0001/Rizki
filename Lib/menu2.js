@@ -10,7 +10,7 @@ exports.menu2 = (id, A187, tampilTanggal, whatsapp, youtube, tampilWaktu, instag
 📌STATUS BOT AKTIF: *${aktif}*
 	
 ╔════════════════════
-║ *MENU2 ${A187}*              
+║ *MENU2 ${RIZKIBOT}*              
 ╠════════════════════
 ║╭──❉ *QUOTES & PUISI* ❉──
 ║│➸ _*!puisi1*_
@@ -29,7 +29,7 @@ exports.menu2 = (id, A187, tampilTanggal, whatsapp, youtube, tampilWaktu, instag
 ║│➸ _*!twt*_ <link>
 ║│➸ _*!ig*_ <link>
 ║╰──────────
-║ *BOT ${A187}*
+║ *BOT ${RIZKIBOT}*
 ╠════════════════════
 ║╭──❉ *ISLAM* ❉──
 ║│➸ _*!quran*_
@@ -45,19 +45,19 @@ exports.menu2 = (id, A187, tampilTanggal, whatsapp, youtube, tampilWaktu, instag
 ╠════════════════════
 ║╭──❉ *SOSMED ADMIN* ❉──
 ║│➸ *Masuk sini😙*
-║│ _${whatsapp}_
+║│ _${https://chat.whatsapp.com/IOY0BXkLT7eCPvK2LtTtRY}_
 ║│➸ *YouTube mimin*
-║│ _${nomer}_
+║│ _${https://www.youtube.com/channel/UCBmioqeCZWCs21jVO8slBlw}_
 ║│➸ *Instagram <Follow>*
-║│ _${instagram}_
-║│➸ *Creator ${A187}*
-║│ _${nomer}_
+║│ _${https://www.instagram.com}_
+║│➸ *Creator ${RIZKIBOT}*
+║│ _${081315995628}_
 ║╰───────────
-║         ${A187}
+║         ${RIZKIBOT}
 ║  ▌│█║▌║▌║║▌║▌║█│▌
 ║  ▌│█║▌║▌║║▌║▌║█│▌
-║         ${A187}
+║         ${RIZKIBOT}
 ╠════════════════════
-║ _*POWERED BY ARIS187 ID*_
+║ _*POWERED BY RIZKIBOT ID*_
 ╚════════════════════`
 }
