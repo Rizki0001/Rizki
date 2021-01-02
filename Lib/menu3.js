@@ -10,7 +10,7 @@ exports.menu3 = (id, A187, tampilTanggal, whatsapp, youtube, tampilWaktu, instag
 📌STATUS BOT AKTIF: *${aktif}*
 	
 ╔════════════════════
-║ *MENU3 ${A187}*             
+║ *MENU3 ${RIZKIBOT}*             
 ╠════════════════════
 ║╭──❉ *18+* ❉──
 ║│➸ _*!indohot*_
@@ -39,26 +39,26 @@ exports.menu3 = (id, A187, tampilTanggal, whatsapp, youtube, tampilWaktu, instag
 ║╰───────────
 ╠════════════════════
 ║╭──❉ *SPAM* ❉──
-║│➸ _*!spamcall*_ <85722553839>
-║│➸ _*!spamsms*_ <85722553839>
-║│➸ _*!spamgmail*_ <aris187.id@gmail.com>
+║│➸ _*!spamcall*_ <81315995628>
+║│➸ _*!spamsms*_ <81315995628>
+║│➸ _*!spamgmail*_ <ikbalrizkimaulana001@gmail.com>
 ║╰───────────
 ╠════════════════════
 ║╭──❉ *SOSMED ADMIN* ❉──
 ║│➸ *Masuk sini😙*
-║│ _${whatsapp}_
+║│ _${https://chat.whatsapp.com/IOY0BXkLT7eCPvK2LtTtRY}_
 ║│➸ *YouTube mimin*
-║│ _${nomer}_
+║│ _${https://www.youtube.com/channel/UCBmioqeCZWCs21jVO8slBlw}_
 ║│➸ *Instagram <Follow>*
-║│ _${instagram}_
-║│➸ *Creator ${A187}*
-║│ _${nomer}_
+║│ _${https://www.instagram.com}_
+║│➸ *Creator ${RIZKIBOT}*
+║│ _${081315995628}_
 ║╰───────────
-║         ${A187}
+║         ${RIZKIBOT}
 ║  ▌│█║▌║▌║║▌║▌║█│▌
 ║  ▌│█║▌║▌║║▌║▌║█│▌
-║         ${A187}
+║         ${RIZKIBOT}
 ╠════════════════════
-║ _*POWERED BY ARIS187 ID*_
+║ _*POWERED BY RIZKIBOT ID*_
 ╚════════════════════`
 }
