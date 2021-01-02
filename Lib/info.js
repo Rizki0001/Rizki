@@ -11,7 +11,7 @@ exports.info = (id, A187, tampilTanggal, whatsapp, youtube, tampilWaktu, instagr
 
          
 ╔════════════════════
-║ *ABOUT ${A187}*
+║ *ABOUT ${RIZKIBOT}*
 ╠════════════════════
 ║   *⚠️WARNING⚠️*
 ╠════════════════════
@@ -19,26 +19,26 @@ exports.info = (id, A187, tampilTanggal, whatsapp, youtube, tampilWaktu, instagr
 ║  *MENGGANTI INFO!!!*
 ╠════════════════════
 ║╭──❉ *INFO* ❉──
-║│➸ *AUTHOR*: _Aris187 ID_
-║│➸ *DESIGNER*: _Aris187 ID_
-║│➸ *YOUTUBE*: _Aris187 ID_
+║│➸ *AUTHOR*: _Iqbal001 ID_
+║│➸ *DESIGNER*: _Iqbal001 ID_
+║│➸ *YOUTUBE*: _Iqbal001 ID_
 ║╰───────────
 ╠════════════════════
 ║╭──❉ *SOSMED ADMIN* ❉──
 ║│➸ *Masuk sini😙*
-║│ _${whatsapp}_
+║│ _${https://chat.whatsapp.com/IOY0BXkLT7eCPvK2LtTtRY}_
 ║│➸ *YouTube mimin*
-║│ _${nomer}_
+║│ _${https://www.youtube.com/channel/UCBmioqeCZWCs21jVO8slBlw}_
 ║│➸ *Instagram <Follow>*
-║│ _${instagram}_
-║│➸ *Creator ${A187}*
-║│ _${nomer}_
+║│ _${https://www.instagram.com}_
+║│➸ *Creator ${RIZKIBOT}*
+║│ _${081315995628}_
 ║╰───────────
-║         ${A187}
+║         ${RIZKIBOT}
 ║  ▌│█║▌║▌║║▌║▌║█│▌
 ║  ▌│█║▌║▌║║▌║▌║█│▌
-║         ${A187}
+║         ${RIZKIBOT}
 ╠════════════════════
-║ _*POWERED BY ARIS187 ID*_
+║ _*POWERED BY RIZKIBOT ID*_
 ╚════════════════════`
 }
