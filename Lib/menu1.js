@@ -10,63 +10,63 @@ exports.menu1 = (id, A187, tampilTanggal, whatsapp, youtube, tampilWaktu, instag
 📌STATUS BOT AKTIF: *${aktif}*
 
 ╔════════════════════
-║ *MENU1 ${A187}*
+║ *MENU1 ${RIZKIBOT}*
 ╠════════════════════
 ║╭──❉ *MEDIA* ❉──
-║│➸ _*!sticker*_
-║│➸ _*!foto cewek*_
-║│➸ _*!foto cowok*_
-║│➸ _*!pokemon*_ 
-║│➸ _*!loli*_
-║│➸ _*!fotoanime*_
-║│➸ _*!waifu*_
-║│➸ _*!ttp*_ <teks>
-║│➸ _*!meme*_
-║│➸ _*!ssweb*_ <link>
+║│➸ _*#sticker*_
+║│➸ _*#foto cewek*_
+║│➸ _*#foto cowok*_
+║│➸ _*#pokemon*_ 
+║│➸ _*#loli*_
+║│➸ _*#fotoanime*_
+║│➸ _*#waifu*_
+║│➸ _*#ttp*_ <teks>
+║│➸ _*#meme*_
+║│➸ _*#ssweb*_ <link>
 ║╰───────────
 ╠════════════════════
 ║╭──❉ *EDUCATION* ❉──
-║│➸ _*!nulis*_ <teks>
-║│➸ _*!pantun*_
-║│➸ _*!artinama*_ <nama anda>
-║│➸ _*!pasangan*_ <Aris & Cahya>
-║│➸ _*!lirik*_ <nama lagu>
-║│➸ _*!chord*_ <nama lagu>
-║│➸ _*!bucin*_
-║│➸ _*!zodiak*_ <28-02-2002>
+║│➸ _*#nulis*_ <teks>
+║│➸ _*#pantun*_
+║│➸ _*#artinama*_ <nama anda>
+║│➸ _*#pasangan*_ <Iqbal & Rizki>
+║│➸ _*#lirik*_ <nama lagu>
+║│➸ _*#chord*_ <nama lagu>
+║│➸ _*#bucin*_
+║│➸ _*#zodiak*_ <28-02-2002>
 ║│➸ _*#*_  <teks>
-║│➸ _*!cooltext*_ <teks>
+║│➸ _*#cooltext*_ <teks>
 ║╰───────────
 ╠════════════════════
 ║╭──❉ *INFORMATION* ❉──
-║│➸ _*!sholat*_ <daerah>
-║│➸ _*!covidID*_
-║│➸ _*!covidcountry*_ <negara>
-║│➸ _*!infogempa*_ 
-║│➸ _*!cektanggal*_ <Tanggal>
-║│➸ _*!infoanime*_ <Naruto>
-║│➸ _*!filmanime*_ <Naruto>
-║│➸ _*!wiki*_ <Buaya>
-║│➸ _*!wikien*_ <dog>
-║│➸ _*!resep*_ <nasi bakar>
-║│➸ _*!jadwalTVnow*_ <channel>
+║│➸ _*#sholat*_ <daerah>
+║│➸ _*#covidID*_
+║│➸ _*#covidcountry*_ <negara>
+║│➸ _*#infogempa*_ 
+║│➸ _*#cektanggal*_ <Tanggal>
+║│➸ _*#infoanime*_ <Naruto>
+║│➸ _*#filmanime*_ <Naruto>
+║│➸ _*#wiki*_ <Buaya>
+║│➸ _*#wikien*_ <dog>
+║│➸ _*#resep*_ <nasi bakar>
+║│➸ _*#jadwalTVnow*_ <channel>
 ║╰───────────
 ╠════════════════════
 ║╭──❉ *SOSMED ADMIN* ❉──
 ║│➸ *Masuk sini😙*
-║│ _${whatsapp}_
+║│ _${https://chat.whatsapp.com/IOY0BXkLT7eCPvK2LtTtRY}_
 ║│➸ *YouTube mimin*
-║│ _${nomer}_
+║│ _${https://www.youtube.com/channel/UCBmioqeCZWCs21jVO8slBlw}_
 ║│➸ *Instagram <Follow>*
-║│ _${instagram}_
-║│➸ *Creator ${A187}*
-║│ _${nomer}_
+║│ _${https://www.instagram.com}_
+║│➸ *Creator ${RIZKIBOT}*
+║│ _${081315995628}_
 ║╰───────────
-║         ${A187}
+║         ${RIZKIBOT}
 ║  ▌│█║▌║▌║║▌║▌║█│▌
 ║  ▌│█║▌║▌║║▌║▌║█│▌
-║         ${A187}
+║         ${RIZKIBOT}
 ╠════════════════════
-║ _*POWERED BY ARIS187 ID*_
+║ _*POWERED BY RIZKIBOT ID*_
 ╚════════════════════`
 }
